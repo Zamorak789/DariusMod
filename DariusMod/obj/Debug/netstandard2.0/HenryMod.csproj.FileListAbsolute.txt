@@ -1,0 +1,14 @@
+D:\ROR2 Modding\HenryTutorial-master\HenryMod\obj\Debug\netstandard2.0\HenryMod.csproj.AssemblyReference.cache
+D:\ROR2 Modding\HenryTutorial-master\HenryMod\obj\Debug\netstandard2.0\HenryMod.GeneratedMSBuildEditorConfig.editorconfig
+D:\ROR2 Modding\HenryTutorial-master\HenryMod\obj\Debug\netstandard2.0\HenryMod.AssemblyInfoInputs.cache
+D:\ROR2 Modding\HenryTutorial-master\HenryMod\obj\Debug\netstandard2.0\HenryMod.AssemblyInfo.cs
+D:\ROR2 Modding\HenryTutorial-master\HenryMod\obj\Debug\netstandard2.0\HenryMod.csproj.CoreCompileInputs.cache
+D:\ROR2 Modding\HenryTutorial-master\HenryMod\bin\Debug\netstandard2.0\MMHOOK_RoR2.dll
+D:\ROR2 Modding\HenryTutorial-master\HenryMod\bin\Debug\netstandard2.0\R2API.dll
+D:\ROR2 Modding\HenryTutorial-master\HenryMod\bin\Debug\netstandard2.0\R2API.xml
+D:\ROR2 Modding\HenryTutorial-master\HenryMod\obj\Debug\netstandard2.0\HenryMod.csproj.CopyComplete
+D:\ROR2 Modding\HenryTutorial-master\HenryMod\bin\Debug\netstandard2.0\DariusMod.deps.json
+D:\ROR2 Modding\HenryTutorial-master\HenryMod\bin\Debug\netstandard2.0\DariusMod.dll
+D:\ROR2 Modding\HenryTutorial-master\HenryMod\bin\Debug\netstandard2.0\DariusMod.pdb
+D:\ROR2 Modding\HenryTutorial-master\HenryMod\obj\Debug\netstandard2.0\DariusMod.dll
+D:\ROR2 Modding\HenryTutorial-master\HenryMod\obj\Debug\netstandard2.0\DariusMod.pdb

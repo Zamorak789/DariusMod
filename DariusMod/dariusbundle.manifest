@@ -1,0 +1,67 @@
+ManifestFileVersion: 0
+CRC: 4252144529
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5c62e18920e83d8e9cb9cbbb92fa35fd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 65a722bf49e70ca40e4f2b061996428d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 261c50d8a80898e4ebf2e8e415ea6766, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Darius/Materials/matDarius.mat
+- Assets/HenryAssets/VFX/ImpactDariusSlash.prefab
+- Assets/Darius/dariusbleed.png
+- Assets/Darius/DariusDisplay.prefab
+- Assets/Darius/DariusIcon.dds
+- Assets/HenryAssets/VFX/BombExplosionEffect.prefab
+- Assets/Darius/dariusability4.png
+- Assets/Darius/darius_passivebuff.png
+- Assets/Darius/dariusability2.png
+- Assets/Darius/dariusability1.png
+- Assets/Darius/mdlDarius.prefab
+- Assets/HenryAssets/VFX/DariusSwordSwingEffect.prefab
+- Assets/Darius/dariusability3.png
+Dependencies: []
